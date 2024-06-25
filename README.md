@@ -7,6 +7,10 @@ Motivated by the rapidly evolving domain of data science and engineering, I am c
 
 - 📫 How to reach me: *mouez.yazidi2016@gmail.com*
 
+<a href="https://github.com/Mouez-Yazidi" target="_blank" rel="mouezyazidi"><img
+src="https://img.shields.io/github/followers/Mouez-Yazidi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 <h3 align="left">Find me arround the web 🌐</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yazidi-mouez-35ba88183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouez-yazidi" height="30" width="40" /></a>
