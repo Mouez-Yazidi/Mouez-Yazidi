@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mouez YAZIDI</h1>
+<h3 align="center">Data Scientist | NLP engineer & Data Engineer</h3>
 
-<!--
-**Mouez-Yazidi/Mouez-Yazidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a data scientist and data engineer enthusiast, I am passionate about using data-driven insights to solve complex business problems. With a strong background in statistics, machine learning, and programming, I have developed a deep understanding of how to collect, analyze, and interpret data to inform strategic decision-making.
 
-Here are some ideas to get you started:
+Motivated by the rapidly evolving domain of data science and engineering, I am constantly seeking new challenges and opportunities to enhance my skills and knowledge. Whether it's exploring new data sources, experimenting with cutting-edge techniques, or collaborating with cross-functional teams, I thrive on tackling complex data problems and delivering innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: *mouez.yazidi2016@gmail.com*
+
+<h3 align="left">Find me arround the web 🌐</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yazidi-mouez-35ba88183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouez-yazidi" height="30" width="40" /></a>
+<a href="https://medium.com/@mouez.yazidi2016" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" alt="mouez-yazidi" height="25" width="35" /></a>
+<a href="https://huggingface.co/MouezYazidi" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="mouez-yazidi" height="30" width="40" /></a>
+</p>
+
