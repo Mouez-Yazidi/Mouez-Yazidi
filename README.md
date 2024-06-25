@@ -4,7 +4,7 @@
 As a data scientist and data engineer enthusiast, I am passionate about using data-driven insights to solve complex business problems. With a strong background in statistics, machine learning, and programming, I have developed a deep understanding of how to collect, analyze, and interpret data to inform strategic decision-making.
 
 Motivated by the rapidly evolving domain of data science and engineering, I am constantly seeking new challenges and opportunities to enhance my skills and knowledge. Whether it's exploring new data sources, experimenting with cutting-edge techniques, or collaborating with cross-functional teams, I thrive on tackling complex data problems and delivering innovative solutions.
-
+- 🤝  I'm open to collaborating on any AI project
 - 📫 How to reach me: *mouez.yazidi2016@gmail.com*
 
 <a href="https://github.com/Mouez-Yazidi" target="_blank" rel="mouezyazidi"><img
