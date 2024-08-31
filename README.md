@@ -17,5 +17,6 @@ src="https://img.shields.io/github/followers/Mouez-Yazidi?logo=github&style=for-
 <a href="https://medium.com/@mouez.yazidi2016" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" alt="mouez-yazidi" height="25" width="35" /></a>
 <a href="https://huggingface.co/MouezYazidi" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="mouez-yazidi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmJjRKjK6uy7QFxw8Xne8ew" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="mouez-yazidi" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01a4fdda94af875f55" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/2560px-Upwork-logo.svg.png" alt="mouez-yazidi" height="30" width="40" /></a>
 </p>
 
